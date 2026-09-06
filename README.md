@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Darsh and I'm a middle school student<br>I am learning Machine Learning <br>I know HTML , CSS, C++ , Java, Python , and Lua.
+Hi my name is Darsh and I'm a middle school student<br>I am progressing in Machine Learning <br>I know HTML , CSS, C++ , Java, Python , and Lua.
 
 
 # 💻 Skills:
